@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-mern",
+  "version": "1.0.0",
+  "description": "MERN stack ecommerce application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Parshwa1504/E-Commerce-Website-using-MERN-Stack.git"
+  },
+  "author": "Parshwa Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parshwa1504/E-Commerce-Website-using-MERN-Stack/issues"
+  },
+  "homepage": "https://github.com/Parshwa1504/E-Commerce-Website-using-MERN-Stack#readme"
+}
